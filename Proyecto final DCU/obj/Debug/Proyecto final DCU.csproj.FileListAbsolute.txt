@@ -1,0 +1,27 @@
+C:\Users\micha\source\repos\Proyecto final DCU\Proyecto final DCU\bin\Debug\Proyecto final DCU.exe.config
+C:\Users\micha\source\repos\Proyecto final DCU\Proyecto final DCU\bin\Debug\Proyecto final DCU.exe
+C:\Users\micha\source\repos\Proyecto final DCU\Proyecto final DCU\bin\Debug\Proyecto final DCU.pdb
+C:\Users\micha\source\repos\Proyecto final DCU\Proyecto final DCU\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\micha\source\repos\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto final DCU.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto final DCU.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\source\repos\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto_final_DCU.Registro.resources
+C:\Users\micha\source\repos\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto_final_DCU.Usuarios.resources
+C:\Users\micha\source\repos\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto_final_DCU.Properties.Resources.resources
+C:\Users\micha\source\repos\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto final DCU.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto final DCU.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto final DCU.csproj.CopyComplete
+C:\Users\micha\source\repos\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto final DCU.exe
+C:\Users\micha\source\repos\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto final DCU.pdb
+C:\Users\marye\Desktop\Proyecto final DCU\Proyecto final DCU\bin\Debug\Proyecto final DCU.exe.config
+C:\Users\marye\Desktop\Proyecto final DCU\Proyecto final DCU\bin\Debug\Proyecto final DCU.exe
+C:\Users\marye\Desktop\Proyecto final DCU\Proyecto final DCU\bin\Debug\Proyecto final DCU.pdb
+C:\Users\marye\Desktop\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto final DCU.csproj.AssemblyReference.cache
+C:\Users\marye\Desktop\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto final DCU.csproj.SuggestedBindingRedirects.cache
+C:\Users\marye\Desktop\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto_final_DCU.Registro.resources
+C:\Users\marye\Desktop\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto_final_DCU.Usuarios.resources
+C:\Users\marye\Desktop\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto_final_DCU.Properties.Resources.resources
+C:\Users\marye\Desktop\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto final DCU.csproj.GenerateResource.cache
+C:\Users\marye\Desktop\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto final DCU.csproj.CoreCompileInputs.cache
+C:\Users\marye\Desktop\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto final DCU.csproj.CopyComplete
+C:\Users\marye\Desktop\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto final DCU.exe
+C:\Users\marye\Desktop\Proyecto final DCU\Proyecto final DCU\obj\Debug\Proyecto final DCU.pdb
